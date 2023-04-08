@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Eu sou o Elmar Marinho, sou um programador Front End, atualmente estou aprendendo a criando projetos com:
 <br>
